@@ -55,9 +55,14 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 10.</strong> Copia del archivo al Directorio Backup.
 
-![WhatsApp Image 2025-08-31 at 11 01 31 PM](https://github.com/user-attachments/assets/bbf47133-ae91-41b7-a43a-8fa37a2e31d8)
+![WhatsApp Image 2025-08-31 at 11 01 31 PM](https://github.com/user-attachments/assets/bbf47133-ae91-41b7-a43a-8fa37a2e31d8)<br>
 
 <strong>Figura 11.</strong> Visualización del archivo en el Directorio Backup.
+
+![WhatsApp Image 2025-08-31 at 11 03 05 PM](https://github.com/user-attachments/assets/dd3e2d83-234e-4ef9-9779-d57ebac2a136)<br>
+
+<strong>Figura 12.</strong> Renombrar el archivo original a "nota_final.txt".
+
 
 
 
