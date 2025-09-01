@@ -37,7 +37,7 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 6.</strong> Visualización de Directorios Backup y Documentos en "Practica_Linux".
 
-
+<strong> 3. Navegación</strong><br>
 
 
 
