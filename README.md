@@ -85,6 +85,8 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 17.</strong> Verificación del contenido de "nota_final.txt".
 
+<strong> 5.Permisos </strong><br>
+
 
 
 
