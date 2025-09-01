@@ -1,5 +1,4 @@
-$${\color{red}TAREA3}$$
-<h1 align="center"> TAREA 3 </h1>
+$${\color{red}TAREA 3}$$
 :hammer:Partes<br>
 1. Navegación<br>
 2. Crear Directorios<br>
