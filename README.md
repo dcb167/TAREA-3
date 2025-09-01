@@ -81,6 +81,11 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 16.</strong> Revisar el contenido del Directorio "Practica_Linux" Nota: Se ha eliminado el Directorio Backup.
 
+![WhatsApp Image 2025-08-31 at 11 12 14 PM](https://github.com/user-attachments/assets/968005c8-d87d-4cb7-a314-1677c9eea7f0)<br>
+
+<strong>Figura 17.</strong> Verificación del contenido de "nota_final.txt".
+
+
 
 
 
