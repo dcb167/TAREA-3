@@ -67,7 +67,7 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 13.</strong> Visulización del cambio de nombre a "nota_final.txt".
 
-<strong> 3. Eliminar y ver contenido </strong><br>
+<strong> 4. Eliminar y ver contenido </strong><br>
 
 
 
