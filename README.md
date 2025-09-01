@@ -39,6 +39,9 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong> 3. Navegación</strong><br>
 
+![WhatsApp Image 2025-08-31 at 10 22 04 PM](https://github.com/user-attachments/assets/6a8e414b-1b24-4d07-bfc0-1b1c94295596)<br>
+
+<strong>Figura 7.</strong> Creación de un archivo vacío llamado "nota.txt".
 
 
 
