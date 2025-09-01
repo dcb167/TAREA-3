@@ -1,4 +1,4 @@
-$${\color{red}}$$
+{\color{red}TAREA3}
 <h1 align="center"> TAREA 3 </h1>
 :hammer:Partes<br>
 1. Navegación<br>
