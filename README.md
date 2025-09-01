@@ -1,10 +1,10 @@
 <h1 align="center"> TAREA 3 </h1>
 :hammer:Partes
-+Navegación
-+Crear Directorios
-+Navegación
-+Eliminar y Ver contenido
-+Permisos
-+Buscar y Filtrar
-+Procesos
-+Paquetes
+1. Navegación<br>
+2. Crear Directorios<br>
+3. Navegación<br>
+4. Eliminar y Ver contenido<br>
+5. Permisos<br>
+6. Buscar y Filtrar<br>
+7. Procesos<br>
+8. Paquetes<br>
