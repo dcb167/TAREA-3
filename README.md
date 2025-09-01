@@ -1,3 +1,4 @@
+$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 <h1 align="center"> TAREA 3 </h1>
 :hammer:Partes<br>
 1. Navegación<br>
