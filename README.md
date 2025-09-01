@@ -43,11 +43,11 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 7.</strong> Creación de un archivo vacío llamado "nota.txt".
 
-![WhatsApp Image 2025-08-31 at 10 22 29 PM](https://github.com/user-attachments/assets/e675b1cc-ac14-477f-ab23-015102e0a9c4)
+![WhatsApp Image 2025-08-31 at 10 22 29 PM](https://github.com/user-attachments/assets/e675b1cc-ac14-477f-ab23-015102e0a9c4)<br>
 
 <strong>Figura 8.</strong> Visualización de archivo vacío llamado "nota.txt".
 
-![WhatsApp Image 2025-08-31 at 10 24 34 PM](https://github.com/user-attachments/assets/7557c089-a9ff-44b1-afa4-1c01c7ac3dc8)
+![WhatsApp Image 2025-08-31 at 10 24 34 PM](https://github.com/user-attachments/assets/7557c089-a9ff-44b1-afa4-1c01c7ac3dc8)<br>
 
 <strong>Figura 8.</strong> Visualización del contenido del archivo llamado "nota.txt".
 
