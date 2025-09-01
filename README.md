@@ -73,6 +73,17 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 14.</strong> Regresar al Directorio "Practica_Linux".
 
+![WhatsApp Image 2025-08-31 at 11 10 38 PM](https://github.com/user-attachments/assets/eba7686f-7ed6-4255-94d4-bfaada027b1e)<br>
+
+<strong>Figura 15.</strong> Eliminar el Directorio Backup.
+
+![WhatsApp Image 2025-08-31 at 11 10 50 PM](https://github.com/user-attachments/assets/c293d77b-3e40-4f25-be7d-c96aaa8d1e3c)<br>
+
+<strong>Figura 16.</strong> Revisar el contenido del Directorio "Practica_Linux" Nota: Se ha eliminado el Directorio Backup.
+
+
+
+
 
 
 
