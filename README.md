@@ -63,6 +63,10 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 12.</strong> Renombrar el archivo original a "nota_final.txt".
 
+![WhatsApp Image 2025-08-31 at 11 03 18 PM](https://github.com/user-attachments/assets/cfb3bf2f-e0b5-4052-8211-6159380b5ccb)<br>
+
+<strong>Figura 13.</strong> Visulización del cambio de nombre a "nota_final.txt".
+
 
 
 
