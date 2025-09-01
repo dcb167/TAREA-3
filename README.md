@@ -18,10 +18,10 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong> 2. Crear directorios </strong><br>
 
-![WhatsApp Image 2025-08-31 at 10 18 51 PM](https://github.com/user-attachments/assets/84f04f24-c6a1-4a23-9745-cc784e9969e1)
+![WhatsApp Image 2025-08-31 at 10 18 51 PM](https://github.com/user-attachments/assets/84f04f24-c6a1-4a23-9745-cc784e9969e1)<br>
 <strong>Figura 3.</strong> Creación de un directorio llamado "Practica_Linux".
 
-![WhatsApp Image 2025-08-31 at 10 20 07 PM](https://github.com/user-attachments/assets/85b13264-b691-4eb8-b7c5-52c087e41810)
+![WhatsApp Image 2025-08-31 at 10 20 07 PM](https://github.com/user-attachments/assets/85b13264-b691-4eb8-b7c5-52c087e41810)<br>
 <strong>Figura 4.</strong> Directorio "Practica_Linux".
 
 
