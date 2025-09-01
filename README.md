@@ -45,7 +45,7 @@ $${\color{red}TAREA 3}$$ <br>
 
 ![WhatsApp Image 2025-08-31 at 10 22 29 PM](https://github.com/user-attachments/assets/e675b1cc-ac14-477f-ab23-015102e0a9c4)
 
-<strong>Figura 8.</strong> Visualización del archivo "nota.txt".
+
 
 
 
