@@ -69,8 +69,9 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong> 4. Eliminar y ver contenido </strong><br>
 
+![WhatsApp Image 2025-08-31 at 11 08 54 PM](https://github.com/user-attachments/assets/57fad517-37ea-485a-b920-10123cd9899c)<br>
 
-
+<strong>Figura 14.</strong> Regresar al Directorio "Practica_Linux".
 
 
 
