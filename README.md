@@ -89,6 +89,16 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong> 6. Buscar y Filtrar</strong><br>
 
+![WhatsApp Image 2025-08-31 at 11 23 24 PM](https://github.com/user-attachments/assets/e79551b7-b7ff-46b7-a21a-d95ac78638b8)<br>
+
+<strong>Figura 18.</strong> Búsqueda del archivo "nota_final.txt".
+
+![WhatsApp Image 2025-08-31 at 11 27 59 PM](https://github.com/user-attachments/assets/1afd9ce4-abd8-4926-8de2-3d863154dd49)<br>
+
+<strong>Figura 19.</strong> Búsqueda de la palabra "Hola" en el archivo "nota_final.txt".
+
+
+
 
 
 
