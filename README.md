@@ -95,6 +95,8 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 19.</strong> Búsqueda de la palabra "Hola" en el archivo "nota_final.txt".
 
+<strong> 6. Procesos</strong><br>
+
 
 
 
