@@ -97,6 +97,16 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong> 6. Procesos</strong><br>
 
+![Imagen de WhatsApp 2025-08-31 a las 23 10 12_a65599ff](https://github.com/user-attachments/assets/c219c276-9414-4286-99c0-058cdc3f8a62)
+
+<strong>Figura 20.</strong> Administrador de Tareas.
+
+![Imagen de WhatsApp 2025-08-31 a las 23 21 44_ca0840a6](https://github.com/user-attachments/assets/35506bd6-ad4b-4ba2-ae57-8c54975273f7)
+
+<strong>Figura 21.</strong> Ejecución del Proceso en segundo plano.
+
+
+
 
 
 
