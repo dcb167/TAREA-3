@@ -117,7 +117,19 @@ $${\color{red}TAREA 3}$$ <br>
 
 ![Imagen de WhatsApp 2025-08-31 a las 23 24 19_2d8ed5a9](https://github.com/user-attachments/assets/5ca12799-d331-4804-a9eb-e7c9538605ca)<br>
 
-<strong>Figura 24.</strong> Instalación de programa "Cowsay".
+<strong>Figura 24.</strong> Comando para la instalación de programa "Cowsay".
+
+![Imagen de WhatsApp 2025-08-31 a las 23 24 46_4e902fb6](https://github.com/user-attachments/assets/3c38474a-b565-4490-ba42-32a1e6e32065)<br>
+
+<strong>Figura 25.</strong> Proceso de instalación de programa "Cowsay".
+
+<strong> 8. Parte Final </strong><br>
+
+![Imagen de WhatsApp 2025-08-31 a las 23 40 27_39229507](https://github.com/user-attachments/assets/a0521935-582d-44df-b2b3-84390257b543)<br>
+
+<strong>Figura 27.</strong> Proceso Final".
+
+
 
 
 
