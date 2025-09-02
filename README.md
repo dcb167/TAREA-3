@@ -2,12 +2,12 @@ $${\color{red}TAREA 3}$$ <br>
 :hammer:Tabla de contenido <br>
 1. Navegación<br>
 2. Crear Directorios<br>
-3. Navegación<br>
-4. Eliminar y Ver contenido<br>
-5. Permisos<br>
-6. Buscar y Filtrar<br>
-7. Procesos<br>
-8. Paquetes<br>
+3. Eliminar y Ver contenido<br>
+4. Permisos<br>
+5. Buscar y Filtrar<br>
+6. Procesos<br>
+7. Paquetes<br>
+8. Parte Final<br>
 
 <strong> 1. Navegación </strong><br>
 
