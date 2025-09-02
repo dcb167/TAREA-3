@@ -85,9 +85,7 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong>Figura 17.</strong> Verificación del contenido de "nota_final.txt".
 
-<strong> 5. Permisos </strong><br>
-
-<strong> 6. Buscar y Filtrar</strong><br>
+<strong> 5. Buscar y Filtrar</strong><br>
 
 ![WhatsApp Image 2025-08-31 at 11 23 24 PM](https://github.com/user-attachments/assets/e79551b7-b7ff-46b7-a21a-d95ac78638b8)<br>
 
