@@ -97,25 +97,25 @@ $${\color{red}TAREA 3}$$ <br>
 
 <strong> 6. Procesos</strong><br>
 
-![Imagen de WhatsApp 2025-08-31 a las 23 10 12_a65599ff](https://github.com/user-attachments/assets/c219c276-9414-4286-99c0-058cdc3f8a62)
+![Imagen de WhatsApp 2025-08-31 a las 23 10 12_a65599ff](https://github.com/user-attachments/assets/c219c276-9414-4286-99c0-058cdc3f8a62)<br>
 
 <strong>Figura 20.</strong> Administrador de Tareas.
 
-![Imagen de WhatsApp 2025-08-31 a las 23 21 44_ca0840a6](https://github.com/user-attachments/assets/35506bd6-ad4b-4ba2-ae57-8c54975273f7)
+![Imagen de WhatsApp 2025-08-31 a las 23 21 44_ca0840a6](https://github.com/user-attachments/assets/35506bd6-ad4b-4ba2-ae57-8c54975273f7)<br>
 
 <strong>Figura 21.</strong> Ejecución del Proceso en segundo plano.
 
 <strong> 7. Paquetes</strong><br>
 
-![Imagen de WhatsApp 2025-08-31 a las 23 23 14_dfda78e1](https://github.com/user-attachments/assets/44987f5a-1d0e-4479-86f8-c7f6d4e2307d)
+![Imagen de WhatsApp 2025-08-31 a las 23 23 14_dfda78e1](https://github.com/user-attachments/assets/44987f5a-1d0e-4479-86f8-c7f6d4e2307d)<br>
 
 <strong>Figura 22.</strong> Comando de actualización de Paquetes con Sudo.
 
-![Imagen de WhatsApp 2025-08-31 a las 23 23 37_5295fd1c](https://github.com/user-attachments/assets/744fd6d0-24fb-4c15-96b0-a72e7e7ccb4b)
+![Imagen de WhatsApp 2025-08-31 a las 23 23 37_5295fd1c](https://github.com/user-attachments/assets/744fd6d0-24fb-4c15-96b0-a72e7e7ccb4b)<br>
 
 <strong>Figura 23.</strong> Actualización de Paquetes con Sudo.
 
-![Imagen de WhatsApp 2025-08-31 a las 23 24 19_2d8ed5a9](https://github.com/user-attachments/assets/5ca12799-d331-4804-a9eb-e7c9538605ca)
+![Imagen de WhatsApp 2025-08-31 a las 23 24 19_2d8ed5a9](https://github.com/user-attachments/assets/5ca12799-d331-4804-a9eb-e7c9538605ca)<br>
 
 <strong>Figura 24.</strong> Instalación de programa "Cowsay".
 
